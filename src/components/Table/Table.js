@@ -1,5 +1,5 @@
 import React from "react";
-import { MDBDataTable } from "mdbreact";
+import { MDBDataTableV5 } from "mdbreact";
 
 const Table = (props) => {
   const columns = [
@@ -36,7 +36,7 @@ const Table = (props) => {
     columns: columns,
     rows: rows,
   };
-  return <MDBDataTable striped hover data={data} />;
+  return <MDBDataTableV5 sortable striped hover data={data} />;
 };
 
 export default Table;
