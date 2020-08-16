@@ -63,4 +63,4 @@ npm start
 
 Open the browser and visit [http://localhost:3000/](http://localhost:3000/)
 
-To use the deployed application, click [here](https://ic-userdirectory.herokuapp.com/)
+To use the deployed application, click [here](https://ichoi21.github.io/HWK16/)
