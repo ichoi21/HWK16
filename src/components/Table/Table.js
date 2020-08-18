@@ -27,7 +27,6 @@ const Table = (props) => {
     {
       label: "Phone Number",
       field: "phone",
-      sort: "asc",
       width: 100,
     },
   ];

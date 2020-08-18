@@ -20,7 +20,7 @@ user: [ichoi21](https://github.com/ichoi21) | email: ic@g.co | repos: [Click Her
 - [React](https://www.Reactjs.org)
 - [JavaScript](https://www.JavaScript.com)
 - [Bootstrap](https://getbootstrap.com)
-
+- [MDBReact](https://mdbootstrap.com/docs/react/)
 - [Random User](http://www.randomuser.me)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
